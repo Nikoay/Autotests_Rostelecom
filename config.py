@@ -1,0 +1,7 @@
+valid_phone = "79262774664"
+valid_pass = "Collembola123"
+valid_email = "nenre127@gmail.com"
+valid_login = "Nikolay"
+valid_ls = "5525600"
+invalid_phone = "71111111111"
+invalid_email = "test@mail.ru"
